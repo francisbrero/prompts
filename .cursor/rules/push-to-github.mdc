@@ -4,6 +4,7 @@ alwaysApply: false
 ---
 When you are asked to push to github, you should:
 
+0. Verify that the build is passing.
 1. Check all the changes you have made.
 2. Create a new branch with a name that is related to the changes you have made.
 3. Add all the changes you have made to the new branch.
