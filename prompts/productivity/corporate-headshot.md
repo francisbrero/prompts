@@ -2,7 +2,7 @@
 title: "Corporate Headshot Creator"
 description: "Create professional corporate headshots with neutral backgrounds and business attire using any photo as reference."
 tags: ["productivity", "image", "headshot", "corporate", "professional"]
-tool: "custom"
+tool: "nano_banana"
 example_output: |
   Professional corporate headshot with business attire and brand-colored neutral background...
 ---
