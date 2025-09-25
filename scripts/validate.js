@@ -9,7 +9,7 @@ let chalk;
 
   const ROOTS = ['prompts', 'rules', 'workflows'];
   const REQUIRED_KEYS = ['title', 'description', 'tags', 'tool', 'example_output'];
-  const ALLOWED_TOOLS = ['chatgpt', 'cursor', 'claude', 'openai', 'custom'];
+  const ALLOWED_TOOLS = ['chatgpt', 'cursor', 'claude', 'openai', 'custom', 'nano_banana'];
   const KEBAB_CASE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
   function isKebabCase(str) {
